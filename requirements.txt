@@ -1,3 +1,5 @@
+python==3.8
+pytorch==1.11
 diffusers==0.3.0
 transformers
 ftfy
