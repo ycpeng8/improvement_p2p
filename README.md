@@ -5,13 +5,16 @@ Authors: Yanchong Peng, Yuhe Peng, Peng Huang
 Emails: {ycpeng, pengyh, phuang}@bu.edu
 
 ## Official Resource
- - [paper](https://arxiv.org/pdf/2208.01626.pdf)
- - [code](https://github.com/google/prompt-to-prompt)
+ - [official paper](https://arxiv.org/pdf/2208.01626.pdf)
+ - [official code](https://github.com/google/prompt-to-prompt)
 
  ## Instruction
 
-- We implement new features based on the official code. You can find our new implementation in [project.ipynb](project.ipynb) and [ptp_utils.py](ptp_utils.py)
-- Due to the size limitation of jupyter notebook, [project.ipynb](project.ipynb) doesn't include image outputs. To see the images, you can check [project.pdf](project.pdf), [reports](reports) or [images](images).
+- We implemented new features based on the official code. You can find our new implementation on in 
 
-# Test
+  [project.ipynb](our_code/project.ipynb). Due to the limitation of github on large-file display, we recommend you to view our code and output images on [Colab](https://colab.research.google.com/drive/1qfcJu8nduINZnFE1x3_KFRXF-qzDzupO).
+
+-  To see the details of implementation, you can check our [reports](reports) and [figures](reports/figures).
+
+
 
