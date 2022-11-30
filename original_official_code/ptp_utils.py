@@ -20,15 +20,6 @@ from typing import Optional, Union, Tuple, List, Callable, Dict
 from IPython.display import display
 from tqdm.notebook import tqdm
 
-
-################################################################################################################
-############################## This is our implementation of Multi-seeds #######################################
-################################################################################################################
-
-
-
-################################################################################################################
-
 def text_under_image(image: np.ndarray, text: str, text_color: Tuple[int, int, int] = (0, 0, 0)):
     h, w, c = image.shape
     offset = int(h * .2)
